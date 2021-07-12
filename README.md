@@ -2,7 +2,7 @@
 # 🙏   HELLO 	🙏
 
  - I am Raj Kanani 
- - I’m on a way to become Computer Engineer(3rd year)
+ - I’m on a way to become Computer Engineer(4th year)
  -  More Focused on Application Development(Flutter)(Android)
 
 
