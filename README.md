@@ -2,8 +2,9 @@
 # 🙏   HELLO 	🙏
 
  - I am Raj Kanani 
- - I’m on a way to become Computer Engineer(4th year)
- -  More Focused on Application Development(Flutter)(Android)
+ - Computer Engineer
+ - More Focused towards Machine learning and Data Science.
+ - Currently Working in Thomson Reuters as a Intern.
 
 
 
