@@ -34,7 +34,15 @@
 
 # Contact me :
 <p align="left">
-<a href="https://www.linkedin.com/in/raj-kanani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raj-kanani/" height="30" width="40" /></a>
-<a href="https://instagram.com/raj_kanan_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_kanan_i" height="30" width="40" /></a>
+
+<a href="https://instagram.com/raj_kanan_i">
+  <img height="50" src="https://user-images.githubusercontent.com/61055497/183494898-76d69586-5093-4643-8c51-1e8ce3e7ee98.png"/>
+</a>
+<a href="https://www.linkedin.com/in/raj-kanani/">
+  <img height="50" src="https://user-images.githubusercontent.com/61055497/183495175-ea54cd43-fffe-4a45-8ff1-2916484a5261.png"/>
+</a>
+<a href="mailto:kananiraj220@gmail.com"><img  height="50" src="https://user-images.githubusercontent.com/61055497/183495319-b4bd1617-b49c-49f0-856d-3f44aea8ad31.png">
+</a>
  
 </p>
+
