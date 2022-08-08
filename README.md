@@ -1,10 +1,15 @@
 
-# 🙏   HELLO 	🙏
+# Hi there!:wave: 
 
- - I am Raj Kanani 
- - Computer Engineer
- - More Focused towards Machine learning and Data Science.
- - Currently Working in Thomson Reuters as a Intern.
+## It's Raj Kanani , Associate Software Engineer at 💻
+
+# 👨🏻‍💻 About Me:
+
+- 💻 I'm currently working on JAVA.
+- ⏳ Exploring Machine Learning and NLP.
+- 🚀 Always ready to collaborate for Dev Experiments.
+- 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
+- ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
 
 
 
@@ -14,7 +19,6 @@
 ![](https://img.shields.io/badge/MobileDev-Flutter-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MobileDev-Android-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-<img src = "https://github-readme-stats.vercel.app/api?username=kananiraj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kananiraj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
