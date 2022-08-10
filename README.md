@@ -14,8 +14,9 @@
  - 💻 I'm currently working on JAVA.
  - ⏳ Exploring Machine Learning and NLP.
  - 🚀 Always ready to collaborate for Dev Experiments.
- - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
- - ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
+ - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge".
+ - ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking.
+ - ⚡ Have a look at my [Resume](https://drive.google.com/file/d/1u9MhDgYenuAGbk9PAcHOYAvFyKz9CFOf/view?usp=sharing).
 
 # 🛠️ Technologies and Tools I use:
 
